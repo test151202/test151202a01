@@ -20,4 +20,7 @@ while($i<count($arr)){
     $i++;
 }
 echo '404:'.$x,',200:'.$y;
+
+
+echo 'version 2.0';
 ?>
